@@ -8,13 +8,11 @@ author: 湾区书记汤姆
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../djangooo1997.github.io
 math: false
 mermaid: true
 
-image:
-  src: /assets/blog_res/2021-03-30-hello-world.assets/huoshan.jpg
-  alt: 签约成功
+
 
 ---
 
@@ -25,11 +23,11 @@ image:
 ```c++
 //代码片段
 int main(){
-  asdasdas
+  asdasdasss
   hello world;
 }
 ```
 
-![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
+asdas
 
-![Screen Shot 2022-04-03 at 11.46.41 AM](/assets/blog_res/2021-03-30-hello-world.assets/Screen Shot 2022-04-03 at 11.46.41 AM.png)
+dasdas
